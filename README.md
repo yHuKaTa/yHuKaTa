@@ -16,6 +16,9 @@ I am also studying the basics of Quality Control (QA), expanding my knowledge of
 
 Take a minutes to review my hobby projects.
 
+![yHuKaTa's GitHub stats](https://github-readme-stats.vercel.app/api?username=yhukata&theme=gotham&show_icons=true)
+
+
 ## Skills and Experience
 * Java
 * Spring
