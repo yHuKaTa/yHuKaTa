@@ -1,16 +1,21 @@
-### Hi there 👋
+# Dimitar Enev
 
-<!--
-**yHuKaTa/yHuKaTa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Dimitar and I am from Bulgaria.
+I have an inexhaustible curiosity for new knowledge, technologies and in general how things work from the inside.
+My experience consists of API development using Spring and Quarkus frameworks, mainly with Java.
+As for deploying what I've developed, I prefer user-friendly self-installing APIs using Docker containers.
+I have experience with C, C++, C# and Python in my learning process, but purely amateurish.
+I am attracted to how to develop artificial intelligence with TensorFlow and Java.
+I am also studying the basics of Quality Control (QA), expanding my knowledge of the IT industry as a whole.
 
-Here are some ideas to get you started:
+Take a minutes to review my hobby projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills and Experience
+* Java
+* Spring
+* Quarkus
+* Docker
+* Python
+* C#
+* C++
+* C
